@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HelloWorld</string>
+    <string name="kasper_intro">Hello World! My name is Kasper and I apologize for putting in a meme as my above image.</string>
+    <string name="button_hello">Click to say Hello!</string>
 </resources>
